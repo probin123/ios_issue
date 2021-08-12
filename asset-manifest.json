@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ios_issue/static/css/main.6dea0f05.chunk.css",
+    "main.css": "/ios_issue/static/css/main.535be637.chunk.css",
     "main.js": "/ios_issue/static/js/main.e2d8d057.chunk.js",
     "main.js.map": "/ios_issue/static/js/main.e2d8d057.chunk.js.map",
     "runtime-main.js": "/ios_issue/static/js/runtime-main.45c91397.js",
@@ -12,14 +12,14 @@
     "static/js/3.bd2ea6fa.chunk.js.map": "/ios_issue/static/js/3.bd2ea6fa.chunk.js.map",
     "index.html": "/ios_issue/index.html",
     "static/css/2.59d623fc.chunk.css.map": "/ios_issue/static/css/2.59d623fc.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/ios_issue/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.535be637.chunk.css.map": "/ios_issue/static/css/main.535be637.chunk.css.map",
     "static/js/2.ab8b7fbf.chunk.js.LICENSE.txt": "/ios_issue/static/js/2.ab8b7fbf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45c91397.js",
     "static/css/2.59d623fc.chunk.css",
     "static/js/2.ab8b7fbf.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
+    "static/css/main.535be637.chunk.css",
     "static/js/main.e2d8d057.chunk.js"
   ]
 }

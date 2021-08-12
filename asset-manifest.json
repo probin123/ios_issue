@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ios_issue/static/css/main.e7bef94f.chunk.css",
-    "main.js": "/ios_issue/static/js/main.e2d8d057.chunk.js",
-    "main.js.map": "/ios_issue/static/js/main.e2d8d057.chunk.js.map",
+    "main.js": "/ios_issue/static/js/main.c0c20a66.chunk.js",
+    "main.js.map": "/ios_issue/static/js/main.c0c20a66.chunk.js.map",
     "runtime-main.js": "/ios_issue/static/js/runtime-main.45c91397.js",
     "runtime-main.js.map": "/ios_issue/static/js/runtime-main.45c91397.js.map",
     "static/css/2.59d623fc.chunk.css": "/ios_issue/static/css/2.59d623fc.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.59d623fc.chunk.css",
     "static/js/2.ab8b7fbf.chunk.js",
     "static/css/main.e7bef94f.chunk.css",
-    "static/js/main.e2d8d057.chunk.js"
+    "static/js/main.c0c20a66.chunk.js"
   ]
 }
